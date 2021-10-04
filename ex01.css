@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font: normal 15pt arial;
+    text-align: center;
+}
+
+header h1{
+    line-height: 100px;
+}
+
+section.contentVerifica{
+    background: rgb(175, 175, 175);
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    line-height: 50px;
+    box-shadow: 3px 3px 10px black;
+}
+
+section.contentVerifica img{
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+}
